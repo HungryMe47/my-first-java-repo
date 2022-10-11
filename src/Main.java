@@ -34,8 +34,7 @@ public class Main {
             System.out.println("above 18");
         }
 
-        System.out.println("saima is a bad boy"
-        );
+        System.out.println("saima is a bad boy");
 
     }
 }
