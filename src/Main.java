@@ -11,7 +11,7 @@ public class Main {
 
         //saima is a bad boy
 
-        int age6 = 123;
+        int age6 = 13;
         long age2 =12345678900L;
 
     float pie = 3.14F;
